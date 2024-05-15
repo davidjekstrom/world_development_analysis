@@ -11,6 +11,8 @@ The world bank income dataset classifies countries per year from 1987 to 2022 as
 The National Religions dataset contains the population of followers of 35 world religions (include subsects ie Catholicism, Protestantism) by country by year in 5 year increments from 1945 to 2015.
 #### Reason for choosing:
 I've chosen these datasets to merge (on key = Code-Year) with the original WDI dataset to include 2 categorical variables (Income Grouping & Top Religion) and potentially draw insights into how religion or income grouping may interact with region, time and/or any WDI figures.
+## Data Tableau Dashboard
+[Tableau Dashboard](https://public.tableau.com/views/WorldDevelopmentIndicatorAnalysis/Story?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 ## Data Profile
 [Data Profile](https://docs.google.com/document/d/1Q6NKOSRb4bZQ5gbz57sMWshCltmzBM7q6Xvl1L-35bM/edit?usp=sharing) for wdi_cleaned.csv
 ## Limitations and Ethical Considerations
